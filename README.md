@@ -26,4 +26,11 @@ It simulates a real dice roll with *sound effects, **dice animation, and **score
    pip install pygame
 2.Run the script:
    python dice_roller.py
-   
+
+## 🎮 Preview:
+![Game Screenshot](dice_game_preview.png)
+
+
+
+  
+
